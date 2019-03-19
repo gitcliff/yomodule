@@ -1,0 +1,2 @@
+org\openmrs\module\yomodule\web\controller\YomoduleController.class
+org\openmrs\module\yomodule\extension\html\AdminList.class

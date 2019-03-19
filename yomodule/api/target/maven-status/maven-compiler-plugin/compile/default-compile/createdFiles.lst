@@ -1,0 +1,6 @@
+org\openmrs\module\yomodule\api\impl\YomoduleServiceImpl.class
+org\openmrs\module\yomodule\YomoduleConfig.class
+org\openmrs\module\yomodule\YomoduleActivator.class
+org\openmrs\module\yomodule\api\dao\YomoduleDao.class
+org\openmrs\module\yomodule\Item.class
+org\openmrs\module\yomodule\api\YomoduleService.class
